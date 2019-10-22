@@ -3,7 +3,8 @@
 # valid spec before submitting.
 
 Pod::Spec.new do |s|
-  s.name             = 'YPDrawSignatureView'
+  s.name             = 'DM_YPDrawSignatureView'
+  s.module_name      = 'YPDrawSignatureView'
   s.version          = '1.1.3'
   s.summary          = 'Simple class for capturing signatures.'
   s.description      = <<-DESC
