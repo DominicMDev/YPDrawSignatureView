@@ -6,6 +6,7 @@ Pod::Spec.new do |s|
   s.name             = 'DM_YPDrawSignatureView'
   s.module_name      = 'YPDrawSignatureView'
   s.version          = '1.1.3'
+  s.swift_version    = '5.0'
   s.summary          = 'Simple class for capturing signatures.'
   s.description      = <<-DESC
 Capture signature view in Swift and export it as a vector graphics or bitmap
